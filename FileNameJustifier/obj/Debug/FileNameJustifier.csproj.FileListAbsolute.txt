@@ -1,0 +1,9 @@
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\bin\Debug\FileNameJustifier.exe.config
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\bin\Debug\FileNameJustifier.exe
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\bin\Debug\FileNameJustifier.pdb
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\obj\Debug\FileNameJustifier.csprojResolveAssemblyReference.cache
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\obj\Debug\FileNameJustifier.Form1.resources
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\obj\Debug\FileNameJustifier.Properties.Resources.resources
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\obj\Debug\FileNameJustifier.csproj.GenerateResource.Cache
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\obj\Debug\FileNameJustifier.exe
+E:\Babadi\FileNameJustifier\FileNameJustifier\FileNameJustifier\obj\Debug\FileNameJustifier.pdb
